@@ -1,0 +1,2 @@
+module FdocTTicketHelper
+end

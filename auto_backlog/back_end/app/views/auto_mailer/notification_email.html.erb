@@ -1,0 +1,7 @@
+<h3>Các ticket đã được update: </h3>
+
+<% @tickets.each do |ticket| %>
+<p><%= ticket.tik_i_trac_id %>: <%= ticket.tik_v_field_summary %></p>
+<% end %>
+
+<p><strong>Thời gian update: </strong><%= @time %></p>

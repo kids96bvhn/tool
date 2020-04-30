@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC');
+
+.List-content {
+  font-size: 30px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.title {
+  font-size: 20px;
+  font-family: "Time New Roman", serif;
+}
+
+.sub {
+  font-size: 15px;
+  font-family: "Time New Roman", serif;
+}
+
+.logo {
+  font-size: 55px;
+  font-family: "Papyrus", serif;
+  color: yellow;
+}
+
+body {
+  margin: 0;
+  height: 100%;
+  background-image: linear-gradient(to top, #d9afd9 0%, #97d9e1 100%);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+hr.solid {
+  border: 1px solid yellow;
+}
+
+hr.head {
+  border: 0.5px solid gray;
+}
+
+.margin-line {
+  margin-top: 30px;
+}
+
+.margin-edit {
+  margin-left: 1450px;
+}
+
+.margin-del {
+  margin-left: 10px;
+}
+
+.image-area {
+  margin-left: 730px;
+  margin-right: 730px;
+}
+
+.margin-right {
+  margin-right: 20px;
+}
+
+.page-margin {
+  margin-left: 20px;
+  margin-top: 30px;
+}
+
+.detail-margin {
+  margin-left: 300px;
+  margin-top: 30px;
+}
+
+.link-margin {
+  margin-left: 150px;
+  margin-top: 50px;
+}
+
+.header-margin {
+  margin-left: 50px;
+  margin-top: 50px;
+}
+
+.magin-top {
+  margin-top: 50px;
+}
+
+.align-all {
+  margin-top: 200px;
+}
+
+.general-margin {
+  margin-left: 300px;
+  margin-top: 50px;
+  border-left: 2px solid green;
+}
